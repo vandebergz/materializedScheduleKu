@@ -17,7 +17,7 @@
 <body class="page-login">
   <div class="center">
     <div class="card bordered z-depth-2" style="margin:0% auto; max-width:400px;">
-      <div class="card-header blue">
+      <div class="card-header green accent-2">
         <span class="text-lg text-bold text-primary" style="color:white">ACCOUNT REGISTRATION</span>
       </div>
       <div class="card-content">
@@ -97,7 +97,7 @@
     </div>
 </div>
 <div class="registration">
-  Already have an account? <a href="login.jsp">Login</a>
+  Already have an account? <a class="green-text accent-2"href="login.jsp">Login</a>
 </div>
 </body>
 </html>
